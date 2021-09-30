@@ -15,3 +15,10 @@ border-radius:8px;
 background-color:#212121;
 float:left;
 }
+.news{
+width:70%;
+height:auto;
+min-height:700px;
+background-color:grey;
+margin-left:10px;
+}
