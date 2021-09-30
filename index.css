@@ -5,4 +5,13 @@ background-color:#3d3c66;
 width:90%;
 margin-left:auto;
 margin-right:auto;
+border-radius:10px;
+}
+.sidebar{
+width:15%;
+height:auto;
+min-height:400px;
+border-radius:8px;
+background-color:#212121;
+float:left;
 }
